@@ -1,5 +1,5 @@
 [package]
-name = "arnis-rust"
+name = "arnis"
 version = "2.0.0"
 edition = "2021"
 description = "Arnis - Generate real life cities in Minecraft"
