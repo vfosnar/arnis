@@ -2,9 +2,11 @@
   <img width="456" height="125" src="https://github.com/louis-e/arnis/blob/main/gitassets/logo.png?raw=true">
 </p>
 
-# Arnis [![CI Build Status](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions)
+# Arnis - Experimental Development Branch
 
 This open source project written in Rust generates any chosen location from the real world in Minecraft with a high level of detail.
+
+This branch stores the experimental development versions which are not yet ready for release.
 
 ⇒ [Where did you find this project?](https://6okq6xh5jt4.typeform.com/to/rSjZaB41)
 
